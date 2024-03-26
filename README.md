@@ -30,18 +30,13 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 3. Customize the design to fit your project requirements.
 4. Fabricate the PCB using a suitable manufacturing process.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername) - Main contributor
-
 ## Support
 
 For any questions or issues, please open an [issue](https://github.com/yourrepository/issues) or contact the contributors directly.
 
-## Acknowledgments
+# License
 
-Special thanks to [Your Name] for their contributions to this project.
+![license.png](https://www.gnu.org/graphics/gplv3-88x31.png)
 
-## Disclaimer
+This work is licensed under the GNU General Public License v3.0.
 
-This project is provided as-is without any warranty. Use it at your own risk.
