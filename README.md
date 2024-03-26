@@ -18,11 +18,6 @@ This repository contains the PCB files for the MCP2515 and TJA1050 CAN Bus Modul
 ![CH32V003_block.png](https://github.com/yasir-shahzad/MCP2515-CAN-Bus-Module/blob/master/images/PCB-top.png)
 ![CH32V003_block.png](https://github.com/yasir-shahzad/MCP2515-CAN-Bus-Module/blob/master/images/PCB3D.png)
 
-
-## License
-
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
-
 ## Usage
 
 1. Clone or download the repository.
