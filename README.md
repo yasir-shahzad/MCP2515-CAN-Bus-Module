@@ -34,7 +34,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 For any questions or issues, please open an [issue](https://github.com/yourrepository/issues) or contact the contributors directly.
 
-# License
+## License
 
 ![license.png](https://www.gnu.org/graphics/gplv3-88x31.png)
 
