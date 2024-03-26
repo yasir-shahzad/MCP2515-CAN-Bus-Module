@@ -48,7 +48,7 @@ If you found a bug, have an idea how to improve the CAN Bus Module or have a que
 
 openScale is licensed under the GPL v3, see LICENSE file for full notice.
 
-    Copyright (C) 2014  yasir.shahzad <yasirshahzad918@gmail.com>
+    Copyright (C) 2024  yasir.shahzad <yasirshahzad918@gmail.com>
     
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
